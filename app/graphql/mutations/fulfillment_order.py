@@ -39,4 +39,3 @@ class FulfillmentOrderAcceptFulfillmentRequestMutation(MutationType):
 
         # TODO: Implement once client pattern is decided
         return {"success": False, "error": "Not implemented"}
-
